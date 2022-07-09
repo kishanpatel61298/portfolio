@@ -23,7 +23,7 @@
 .tracker {
   /* visibility: hidden; */
   position: fixed;
-  /* margin-inline-end: auto;  */
+  /* margin-inline-end: auto;   */
   bottom: 0; 
   right: 0;
 }
